@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBallAutoMartinProgram", "PowerBall Auto Martin Program\PowerBallAutoMartinProgram.csproj", "{70EE3F4E-C152-4ADA-A08D-EA395565D0F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CherryProgramSetup", "CherryProgramSetup\CherryProgramSetup.vdproj", "{8B5E06C8-9EAF-4C50-AC5A-BF9707E65AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70EE3F4E-C152-4ADA-A08D-EA395565D0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EE3F4E-C152-4ADA-A08D-EA395565D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EE3F4E-C152-4ADA-A08D-EA395565D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EE3F4E-C152-4ADA-A08D-EA395565D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5E06C8-9EAF-4C50-AC5A-BF9707E65AF5}.Debug|Any CPU.ActiveCfg = Debug
+		{8B5E06C8-9EAF-4C50-AC5A-BF9707E65AF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2B3D00-515E-4923-875C-31321B99013F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sentimentalhoon.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PowerBall\u0020Auto\u0020Martin\u0020Program\\PowerBallAutoMartinProgram.csproj
+		SccProjectName1 = PowerBall\u0020Auto\u0020Martin\u0020Program
+		SccLocalPath1 = PowerBall\u0020Auto\u0020Martin\u0020Program
+		SccProjectUniqueName2 = CherryProgramSetup\\CherryProgramSetup.vdproj
+		SccProjectName2 = CherryProgramSetup
+		SccLocalPath2 = CherryProgramSetup
+	EndGlobalSection
+EndGlobal

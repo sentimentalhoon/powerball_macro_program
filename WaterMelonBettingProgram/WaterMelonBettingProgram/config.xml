@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setting>
+  <propertiesSettings>
+    <id>say4m</id>
+    <pattern></pattern>
+    <allpick></allpick>
+    <moneySettings></moneySettings>
+  </propertiesSettings>
+</setting>

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JY PowerBallProgram", "JY PowerBallProgram\JY PowerBallProgram.csproj", "{08CC1B1A-B4A4-4E8D-858B-06A12716215F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BlueBerryPowerBallProgram", "BlueBerryPowerBallProgram\BlueBerryPowerBallProgram.vdproj", "{95FC7BB9-8BD1-4404-84A7-A3200A342976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CC1B1A-B4A4-4E8D-858B-06A12716215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CC1B1A-B4A4-4E8D-858B-06A12716215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CC1B1A-B4A4-4E8D-858B-06A12716215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CC1B1A-B4A4-4E8D-858B-06A12716215F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FC7BB9-8BD1-4404-84A7-A3200A342976}.Debug|Any CPU.ActiveCfg = Debug
+		{95FC7BB9-8BD1-4404-84A7-A3200A342976}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72810FC-A3E5-4719-A4B3-6013B8BD5FB8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sentimentalhoon.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BlueBerryPowerBallProgram\\BlueBerryPowerBallProgram.vdproj
+		SccProjectName1 = BlueBerryPowerBallProgram
+		SccLocalPath1 = BlueBerryPowerBallProgram
+		SccProjectUniqueName2 = JY\u0020PowerBallProgram\\JY\u0020PowerBallProgram.csproj
+		SccProjectName2 = JY\u0020PowerBallProgram
+		SccLocalPath2 = JY\u0020PowerBallProgram
+	EndGlobalSection
+EndGlobal

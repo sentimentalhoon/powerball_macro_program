@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setting>
+  <propertiesSettings>
+    <id>test</id>
+    <samePerson>true</samePerson>
+    <PicksterMark>true</PicksterMark>
+    <autoRefill>true</autoRefill>
+    <includeMemberId>true</includeMemberId>
+    <resultMark>true</resultMark>
+    <errorBeep>true</errorBeep>
+    <bettingFail>true</bettingFail>
+    <patternNumber>패턴 4번</patternNumber>
+    <patternBetNumber>3</patternBetNumber>
+    <useAutoReverse>true</useAutoReverse>
+    <useOverProfit>true</useOverProfit>
+    <OverProfitValue>50000000</OverProfitValue>
+    <useUnderProfit>true</useUnderProfit>
+    <UnderProfitValue>0</UnderProfitValue>
+  </propertiesSettings>
+</setting>
